@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area contains a list of files to track. It may leave out other files
+in the working directory. The repository is a snapshot in time of the files in
+the staging area.
