@@ -4,3 +4,9 @@
 The staging area contains a list of files to track. It may leave out other files
 in the working directory. The repository is a snapshot in time of the files in
 the staging area.
+
+> What are some situations when branches would be helpful in keeping your history
+> organized? How would branches help?
+
+Branch to fix a previous bug.?
+Branch to try a new feature.
